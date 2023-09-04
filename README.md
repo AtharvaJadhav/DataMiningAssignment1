@@ -13,4 +13,4 @@ Part 2: Demonstrating various usecases of Github Copilot alongside gpt-engineer
 
 In the second part of the assignment, I used a tool called GitHub Copilot with Visual Studio Code. I made a video showing how this tool helps in writing, improving, and testing code. It's like having a smart assistant that suggests how to write the code better. I've saved all the code examples in this GitHub repository. Giving gpt-engineer the prompt "Build a temperature converter app. Use python and display output on terminal. Allow users to convert between Celcius and Fahrenheit." we made a simple python program to convert temperatures Celcius and Fahrenheit. We asked copilot to add code for Kelvin. Then we asked it to refactor the same code to use all the three temperatures interchangibly. At last, we asked it to write unit tests for the same. It works like magic!
 
-I have uploaded the code in the "copilot" folder along with the screencast of the creation and usage of the code.
+I have uploaded the code in the "Part2" folder. Here's the screencast of the same with public access - [https://drive.google.com/drive/folders/1OpOUvhiF694vTuprclIv5uXniP0oirM-?usp=sharing]
